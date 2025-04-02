@@ -80,6 +80,7 @@ namespace StickyNotesApp
             colorComboBox.Items.Add("Purple");
             colorComboBox.Items.Add("Brown");
             colorComboBox.Items.Add("Orange");
+            colorComboBox.Items.Add("LightBlue");
             colorComboBox.SelectedIndex = 0;
 
             Button saveButton = new Button
